@@ -16,6 +16,11 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A comprehensive tool that calculates the **Average** of three numbers and identifies the **Maximum** and **Minimum** values.
 * **Special Features:** Includes **Input Validation** using loops to ensure only positive numbers are processed.
 
+
+### 3. Month Info Finder 📅
+* **File:** [Lab3.java](./Lab3.java)
+* **Description:** A program that identifies the month name and the number of days based on user input (1-12).
+* **Key Concepts:** `Switch-Case` statements, Input Validation, and String handling.
 ---
 
 ## 🛠️ Tech Stack
