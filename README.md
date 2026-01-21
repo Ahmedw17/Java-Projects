@@ -21,4 +21,4 @@ Welcome to my Java projects repository! This collection showcases various labora
 ## 🛠️ Tech Stack
 * **Language:** Java SE
 * **Concepts:** Control Flow (Loops, Conditionals), Input/Output Handling, Math Operations.
-* **Tools:** GitHub, NetBeans / IntelliJ.
+* **Tools:** GitHub, NetBeans .
