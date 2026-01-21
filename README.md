@@ -22,10 +22,15 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A program that identifies the month name and the number of days based on user input (1-12).
 * **Key Concepts:** `Switch-Case` statements, Input Validation, and String handling.
 
-### 4. Longest Name Finder (Lab 4) 🔡
+### 4. Longest Name Finder  🔡
 * **File:** [Lab4.java](./Lab4.java)
 * **Description:** A program that takes three names as input and determines which one has the most characters.
 * **Key Concepts:** String methods (`length()`), Logical comparisons, and Conditional statements (`if`).
+
+### 5. Top Student Finder  🎓
+* **File:** [Lab5.java](./Lab5.java)
+* **Description:** A program that accepts a list of students and their scores, then identifies the student with the highest grade.
+* **Key Concepts:** `for` loops, dynamic input handling, and finding the maximum value in a set.
 
 ---
 
