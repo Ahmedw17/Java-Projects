@@ -52,7 +52,10 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A security-focused program that validates user passwords based on length, alphanumeric content, and a minimum digit requirement.
 * **Key Concepts:** `Character` class methods, String traversal, and complex conditional logic.
 
-
+### 10. Letter Remover Utility 🧹
+* **File:** [Lab10.java](./Lab10.java)
+* **Description:** A program that allows users to remove all occurrences of a specific character from a given string.
+* **Key Concepts:** Method modularity, String filtering, and dynamic character targeting.
 
 ---
 
