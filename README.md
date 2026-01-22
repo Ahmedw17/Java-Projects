@@ -47,6 +47,13 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A comprehensive tool that manages rainfall data for 4 weeks using 2D Arrays and classifies the average weekly rainfall.
 * **Key Concepts:** 2D Arrays, Nested Loops, and Custom Methods (`getClassification`).
 
+### 9. Password Validation System 🔐
+* **File:** [Lab9.java](./Lab9.java)
+* **Description:** A security-focused program that validates user passwords based on length, alphanumeric content, and a minimum digit requirement.
+* **Key Concepts:** `Character` class methods, String traversal, and complex conditional logic.
+
+
+
 ---
 
 ## 🛠️ Tech Stack
