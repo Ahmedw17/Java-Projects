@@ -42,6 +42,11 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A robust word counter that cleans input text and handles multiple spaces between words.
 * **Key Concepts:** String manipulation (`trim()`), Regular Expressions (`split("\\s+")`), and Arrays.
 
+### 8. Monthly Rainfall Analyzer  🌧️
+* **File:** [Lab8.java](./Lab8.java)
+* **Description:** A comprehensive tool that manages rainfall data for 4 weeks using 2D Arrays and classifies the average weekly rainfall.
+* **Key Concepts:** 2D Arrays, Nested Loops, and Custom Methods (`getClassification`).
+
 ---
 
 ## 🛠️ Tech Stack
