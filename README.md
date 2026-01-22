@@ -32,6 +32,11 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A program that accepts a list of students and their scores, then identifies the student with the highest grade.
 * **Key Concepts:** `for` loops, dynamic input handling, and finding the maximum value in a set.
 
+### 6. Specific Character Remover ✂️
+* **File:** [Lab6.java](./Lab6.java)
+* **Description:** A program that filters a string by removing the first three occurrences of the letter 'M' (case-insensitive).
+* **Key Concepts:** `for` loops, `charAt()` method, and the `continue` statement for flow control.
+
 ---
 
 ## 🛠️ Tech Stack
