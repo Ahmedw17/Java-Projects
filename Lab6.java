@@ -13,7 +13,6 @@ public class Lab6 {
         System.out.print("Enter a string: ");
         str=Ahmed.nextLine();
         
-        
         result="";
         count=0;
       
