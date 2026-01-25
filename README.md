@@ -60,7 +60,7 @@ Welcome to my Java projects repository! This collection showcases various labora
 ### 11. Machine State Manager ⚙️
 * **File:** [Lab11.java](./Lab11.java)
 * **Description:** A professional state-control system that simulates a machine's lifecycle (from ON to DONE) using restricted constants to prevent invalid states.
-* **Key Concepts:** (Enumerated Types). This lab demonstrates how to define a set of predefined constants and use the valueOf() method to map user input directly to these states.
+* **Key Concepts:** Enums (Enumerated Types). This lab demonstrates how to define a set of predefined constants and use the valueOf() method to map user input directly to these states.
 
 ---
 
