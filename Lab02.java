@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lab2 {
+public class Lab02 {
     public static void main(String[] args) {
      double num1 , num2 , num3 , max , min ,average ;
      Scanner Ahmed = new Scanner(System.in);
