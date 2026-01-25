@@ -28,3 +28,4 @@ public class Lab02 {
        System.out.println("The min is :"+ min);
     }
     }
+
