@@ -38,7 +38,7 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Key Concepts:** `for` loops, `charAt()` method, and the `continue` statement for flow control.
 
  ### 7. Word Counter Utility 📝
-* **File:** [Lab7.java](./Lab7.java)
+* **File:** [Lab07.java](./Lab07.java)
 * **Description:** A robust word counter that cleans input text and handles multiple spaces between words.
 * **Key Concepts:** String manipulation (`trim()`), Regular Expressions (`split("\\s+")`), and Arrays.
 
