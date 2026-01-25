@@ -7,7 +7,7 @@ Welcome to my Java projects repository! This collection showcases various labora
 ## 📁 Projects Gallery
 
 ### 1. Temperature Converter 🌡️
-* **File:** [Lab1.java](./Lab1.java)
+* **File:** [Lab01.java](./Lab01.java)
 * **Description:** A utility program that converts temperatures from Fahrenheit to Celsius.
 * **Key Concepts:** `Scanner` for user input and basic arithmetic formula implementation.
 
