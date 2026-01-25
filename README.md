@@ -23,7 +23,7 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Key Concepts:** `Switch-Case` statements, Input Validation, and String handling.
 
 ### 4. Longest Name Finder  🔡
-* **File:** [Lab4.java](./Lab4.java)
+* **File:** [Lab04.java](./Lab04.java)
 * **Description:** A program that takes three names as input and determines which one has the most characters.
 * **Key Concepts:** String methods (`length()`), Logical comparisons, and Conditional statements (`if`).
 
