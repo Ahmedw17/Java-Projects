@@ -57,6 +57,11 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A program that allows users to remove all occurrences of a specific character from a given string.
 * **Key Concepts:** Method modularity, String filtering, and dynamic character targeting.
 
+### 11. Machine State Manager ⚙️
+* **File:** [Lab11.java](./Lab11.java)
+* **Description:** A professional state-control system that simulates a machine's lifecycle (from ON to DONE) using restricted constants to prevent invalid states.
+* **Key Concepts:** (Enumerated Types). This lab demonstrates how to define a set of predefined constants and use the valueOf() method to map user input directly to these states.
+
 ---
 
 ## 🛠️ Tech Stack
