@@ -28,7 +28,7 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Key Concepts:** String methods (`length()`), Logical comparisons, and Conditional statements (`if`).
 
 ### 5. Top Student Finder  🎓
-* **File:** [Lab5.java](./Lab5.java)
+* **File:** [Lab05.java](./Lab05.java)
 * **Description:** A program that accepts a list of students and their scores, then identifies the student with the highest grade.
 * **Key Concepts:** `for` loops, dynamic input handling, and finding the maximum value in a set.
 
