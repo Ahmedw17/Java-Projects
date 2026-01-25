@@ -77,6 +77,10 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A practical restaurant system that handles multiple food orders. It showcases how to store objects in an array, process them using loops, and calculate a total bill dynamically.
 * **Key Concepts:** Arrays of Objects & Enhanced For-Loops. This lab demonstrates passing object arrays to methods and using static variables to maintain a global counter for all instances created
 
+### 15. Age Calculator (Lab 15) 🎂 
+* **File:** [Lab15.java](./Lab15.java)
+* **Description:** A straightforward utility designed to calculate a user's age. It focuses on the fundamental interaction between user input and basic arithmetic operations..
+* **Key Concepts:** Variable Initialization & Arithmetic. This lab demonstrates how to capture integer input using the Scanner class and process it against a fixed constant (currentYear) to produce a dynamic result.
 
 ---
 
