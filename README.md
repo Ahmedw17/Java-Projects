@@ -18,7 +18,7 @@ Welcome to my Java projects repository! This collection showcases various labora
 
 
 ### 3. Month Info Finder 📅
-* **File:** [Lab3.java](./Lab3.java)
+* **File:** [Lab03.java](./Lab03.java)
 * **Description:** A program that identifies the month name and the number of days based on user input (1-12).
 * **Key Concepts:** `Switch-Case` statements, Input Validation, and String handling.
 
