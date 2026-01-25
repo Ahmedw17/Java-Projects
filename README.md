@@ -62,6 +62,11 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A professional state-control system that simulates a machine's lifecycle (from ON to DONE) using restricted constants to prevent invalid states.
 * **Key Concepts:** Enums (Enumerated Types). This lab demonstrates how to define a set of predefined constants and use the valueOf() method to map user input directly to these states.
 
+### 12. Geometric Shape Calculator (OOP) 📐
+* **File:** [Lab12.java](./Lab12.java)
+* **Description:** A fundamental introduction to Object-Oriented Programming (OOP). The program creates a Rectangle class to manage properties (width, height) and calculate geometric values like Area and Perimeter.
+* **Key Concepts:** Classes and Objects. This lab showcases how to use Constructors, Private Fields (Encapsulation), and Getter Methods to build a reusable blueprint for objects
+
 ---
 
 ## 🛠️ Tech Stack
