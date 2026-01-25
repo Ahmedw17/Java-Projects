@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lap11 {
+public class Lab11 {
        enum Machine{
            ON,OFF,START,IN_PROGRESS,DONE
        }
