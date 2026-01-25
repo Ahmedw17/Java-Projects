@@ -67,6 +67,11 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A fundamental introduction to Object-Oriented Programming (OOP). The program creates a Rectangle class to manage properties (width, height) and calculate geometric values like Area and Perimeter.
 * **Key Concepts:** Classes and Objects. This lab showcases how to use Constructors, Private Fields (Encapsulation), and Getter Methods to build a reusable blueprint for objects
 
+### 13. Banking Account System  💳
+* **File:** [Lab13.java](./Lab13.java)
+* **Description:** A comprehensive banking simulation that manages financial accounts, including ID tracking, balance management, and automated interest calculations.
+* **Key Concepts:** Advanced OOP & Static Members. This lab demonstrates how to use static variables for shared data (like interest rates), integrate the java.util.Date class for timestamps, and implement core banking logic.
+
 ---
 
 ## 🛠️ Tech Stack
