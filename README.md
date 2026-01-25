@@ -72,6 +72,12 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A comprehensive banking simulation that manages financial accounts, including ID tracking, balance management, and automated interest calculations.
 * **Key Concepts:** Advanced OOP & Static Members. This lab demonstrates how to use static variables for shared data (like interest rates), integrate the java.util.Date class for timestamps, and implement core banking logic.
 
+### 14. Order Management System  🍕
+* **File:** [Lab14.java](./Lab14.java)
+* **Description:** A practical restaurant system that handles multiple food orders. It showcases how to store objects in an array, process them using loops, and calculate a total bill dynamically.
+* **Key Concepts:** Arrays of Objects & Enhanced For-Loops. This lab demonstrates passing object arrays to methods and using static variables to maintain a global counter for all instances created
+
+
 ---
 
 ## 🛠️ Tech Stack
