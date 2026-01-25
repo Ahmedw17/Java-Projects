@@ -12,7 +12,7 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Key Concepts:** `Scanner` for user input and basic arithmetic formula implementation.
 
 ### 2. Numbers Analyzer (Max, Min, & Average) 🔢
-* **File:** [Lab2.java](./Lab2.java)
+* **File:** [Lab02.java](./Lab02.java)
 * **Description:** A comprehensive tool that calculates the **Average** of three numbers and identifies the **Maximum** and **Minimum** values.
 * **Special Features:** Includes **Input Validation** using loops to ensure only positive numbers are processed.
 
