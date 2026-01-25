@@ -16,7 +16,7 @@ public class Lab01 {
 
         System.out.println(" The result of celsius " + celsius);
       
-        
+
     }
     
 }
