@@ -101,6 +101,12 @@ Welcome to my Java projects repository! This collection showcases various labora
 - **Description:** A concurrency program that runs 3 tasks simultaneously using a fixed thread pool of 2 threads, where each task sleeps for a random duration before completing.
 - **Key Concepts:** Multithreading, `ExecutorService`, `Runnable` interface, `Thread.sleep()`, and `SecureRandom` for random time generation.
 
+## 19. Exception Handling 🚨
+
+- **File:** [Lab19.java](Lab19.java)
+- **Description:** A program that performs division with strict validation, throwing custom exceptions when the divisor is zero or any number is negative.
+- **Key Concepts:** Exception Handling using `try`, `catch`, `throw`, and `throws` with `ArithmeticException`.
+
 
 
 ---
