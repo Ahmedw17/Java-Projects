@@ -82,6 +82,14 @@ Welcome to my Java projects repository! This collection showcases various labora
 * **Description:** A straightforward utility designed to calculate a user's age. It focuses on the fundamental interaction between user input and basic arithmetic operations..
 * **Key Concepts:** Variable Initialization & Arithmetic. This lab demonstrates how to capture integer input using the Scanner class and process it against a fixed constant (currentYear) to produce a dynamic result.
 
+
+## 16. File Editor 📝
+
+- **File:** [Lab16.java](Lab16.java)
+- **Description:** A simple text file editor that allows users to open, view, and edit any text file using a graphical interface.
+- **Key Concepts:** Java Swing (JTextArea, JFileChooser, JScrollPane), File I/O using `Files.readString()` and `Files.writeString()` from the NIO package.
+
+
 ---
 
 ## 🛠️ Tech Stack
