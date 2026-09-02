@@ -107,7 +107,11 @@ Welcome to my Java projects repository! This collection showcases various labora
 - **Description:** A program that performs division with strict validation, throwing custom exceptions when the divisor is zero or any number is negative.
 - **Key Concepts:** Exception Handling using `try`, `catch`, `throw`, and `throws` with `ArithmeticException`.
 
+## 20. Number Guessing Game 🎲
 
+- **File:** [Lab20.java](Lab20.java)
+- **Description:** A fun console-based game where the player has 7 attempts to guess a randomly generated number between 1 and 100, with hints after each guess.
+- **Key Concepts:** `Random` class, `Scanner` for user input, `while` loops, and conditional logic for game flow control.
 
 ---
 
