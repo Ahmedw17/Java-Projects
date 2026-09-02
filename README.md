@@ -95,6 +95,14 @@ Welcome to my Java projects repository! This collection showcases various labora
 - **Description:** An interactive GUI application that allows users to customize the appearance of a text label in real time.
 - **Key Concepts:** Java Swing (JRadioButton, JCheckBox, ButtonGroup), dynamic Font styling, and Color manipulation using ActionListeners.
 
+## 18. Multithreading 🧵
+
+- **File:** [Lab18.java](Lab18.java)
+- **Description:** A concurrency program that runs 3 tasks simultaneously using a fixed thread pool of 2 threads, where each task sleeps for a random duration before completing.
+- **Key Concepts:** Multithreading, `ExecutorService`, `Runnable` interface, `Thread.sleep()`, and `SecureRandom` for random time generation.
+
+
+
 ---
 
 ## 🛠️ Tech Stack
