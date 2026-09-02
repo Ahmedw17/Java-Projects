@@ -89,6 +89,12 @@ Welcome to my Java projects repository! This collection showcases various labora
 - **Key Concepts:** Java Swing (JTextArea, JFileChooser, JScrollPane), File I/O using `Files.readString()` and `Files.writeString()` from the NIO package.
 
 
+## 17. Text Style Controller 🎨
+
+- **File:** [Lab17.java](Lab17.java)
+- **Description:** An interactive GUI application that allows users to customize the appearance of a text label in real time.
+- **Key Concepts:** Java Swing (JRadioButton, JCheckBox, ButtonGroup), dynamic Font styling, and Color manipulation using ActionListeners.
+
 ---
 
 ## 🛠️ Tech Stack
